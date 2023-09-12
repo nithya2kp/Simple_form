@@ -1,0 +1,58 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Poppins',sans-serif;
+}
+.inpt{
+  width: 100%;
+  padding: 15px;
+  margin: 5px 0 22px 0;
+  display: inline-block;
+  border: none;
+  background: #f1f1f1;
+}
+.sub_button{
+  background-color: #007bff;
+  color: white;
+  padding: 16px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+  opacity: 0.9;
+}
+.new_btn{
+    text-decoration: none;
+}
+.col-6 h5 a{
+    text-decoration:none;
+}
+.col-6 h5 a:hover {
+    text-decoration: underline; /* Add an underline to the text */
+  }
+
+.button1{
+     text-decoration: none;
+}
+.button1:hover {
+    background-color: #007bff; /* Change the background color on hover to blue */
+    color: #fff; /* Change the text color on hover to white */
+  }
+  .navbar-nav .nav-link:hover {
+    text-decoration: underline;
+  }
+.cards {
+            display: flex;
+            flex-wrap: wrap;
+        }
+.card {
+            width: 300px;
+            margin: 10px;
+            padding: 10px;
+            border: 1px solid #ccc;
+        }
+.loading {
+            display: none;
+
+
